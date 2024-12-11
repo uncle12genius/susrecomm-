@@ -288,7 +288,7 @@ const SubscribeButton = styled.button`
     color: whitesmoke ; 
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.6s ease;
 
     &:hover {
         background-color: #000072; 
